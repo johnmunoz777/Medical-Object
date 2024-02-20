@@ -1,0 +1,5 @@
+train: /home/jmunoz004/medial_ai/train/images
+val: /home/jmunoz004/medial_ai/valid/images
+test: /home/jmunoz004/medial_ai/test/images
+nc: 10
+names: ['face mask', 'face shield', 'glasses', 'gloves', 'hairnet', 'hospital bed', 'lights', 'medical instrument', 'monitor', 'scrubs']
